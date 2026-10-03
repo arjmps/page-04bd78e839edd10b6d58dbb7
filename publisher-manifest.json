@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b88d8b74566c945fa47a4be9",
+  "owner": "arjmps",
+  "repo": "page-04bd78e839edd10b6d58dbb7",
+  "title": "必速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "04bd78e839edd10b6d58dbb7",
+      "a": "必速",
+      "b": "",
+      "entity": "必速",
+      "brand": "必速",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8a092e4f602a35278a30420ac1b9c88568dc52980bac971d9be1874c66dff2d0",
+      "content": {
+        "keyword1": "必速",
+        "keyword2": "",
+        "primary_entity": "必速",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "必速是专注稳定连接的VPN梯子与机场订阅服务官方网站，提供多端客户端下载、流媒体解锁与游戏加速套餐说明，帮助你快速完成订阅与配置。",
+          "AI_DESCRIPTION": "必速是专注稳定连接的VPN梯子与机场订阅服务官方网站，提供多端客户端下载、流媒体解锁与游戏加速套餐说明，帮助你快速完成订阅与配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{max-width:100%;overflow-x:hidden}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e7f6f8;line-height:1.75;font-size:16px}a{color:#5eead4;text-decoration:none}a:hover{text-decoration:underline}header,footer{background:#0b1f33;border-color:#164e63}header{border-bottom:1px solid #164e63;padding:14px 0}footer{border-top:1px solid #164e63;padding:24px 0;margin-top:36px;color:#9fb8c4;font-size:14px}.wrap{width:100%;max-width:920px;margin:0 auto;padding:0 16px}nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:8px;font-size:14px}h1{font-size:1.85rem;line-height:1.3;color:#ffffff;margin:8px 0 12px}h2{font-size:1.35rem;color:#67e8f9;margin:32px 0 12px;padding-bottom:6px;border-bottom:1px solid #1b4d5c}h3{font-size:1.08rem;color:#a5f3fc;margin:18px 0 8px}p,li{margin-bottom:10px}ul,ol{padding-left:1.2em}.lead{color:#c5e8ee;margin-bottom:16px}.hero{padding:28px 0 8px}.badge{display:inline-block;background:#123a4a;color:#99f6e4;border:1px solid #155e75;border-radius:999px;padding:2px 10px;font-size:12px;margin-bottom:10px}.card{background:#0d2436;border:1px solid #1a4d5c;border-radius:10px;padding:16px;margin-bottom:12px}.featured{border-color:#22d3ee;background:#0e2c40}.price{font-size:1.35rem;color:#ffffff;font-weight:700}.muted{color:#93c5c9;font-size:14px}.step{border-left:3px solid #22d3ee;padding:4px 0 4px 14px;margin:0 0 14px}.step p{margin-bottom:6px}details{background:#0d2436;border:1px solid #164e63;border-radius:8px;padding:10px 14px;margin-bottom:8px}summary{color:#67e8f9;font-weight:600}details p{margin-top:8px;color:#d5eef2}.grid{display:block}.list-inline{display:flex;flex-wrap:wrap;gap:8px 14px}.adbox{background:#102433;border:1px dashed #1f5a6a;border-radius:8px;padding:14px;color:#b6d4da;font-size:14px}small{color:#8aa8b0}</style><header><div class=\"wrap\"><strong>必速</strong> 官方网站<nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友情链接</a></nav></div></header><main class=\"wrap\"><section class=\"hero\"><p class=\"badge\">官网 · 机场订阅 · 加速器</p><h1>必速 — 稳定VPN梯子与机场订阅官方网站</h1><p class=\"lead\">必速面向跨境办公、学术访问、流媒体与游戏加速用户，提供可订阅的节点服务与多端客户端下载说明。本页集中介绍品牌定位、套餐差异、导入步骤与常见问题，便于你在官方渠道完成选择与配置。</p></section><section id=\"intro\"><h2>品牌简介</h2><p>必速是以网络加速为核心的VPN与机场订阅服务。用户通过订阅链接在常用客户端中导入节点，按流量与设备数量使用线路，而不是依赖临时分享或不明来源配置。服务强调线路可用性、流媒体解锁能力以及游戏场景下的专线优化，并配套工单与客户经理支持。</p><p>与一次性试用节点不同，必速按月或按年提供可续费套餐：基础版覆盖日常浏览与基础流媒体；旗舰版提高流量、设备数并加入 IPLC 游戏优化；团队版面向多设备与定制路由需求。所有说明以本官网展示的套餐为准，下载与导入请以官方公告中的客户端版本为准。</p><h3>服务边界</h3><p>必速用于合法的跨境访问、远程协作与内容加速。请遵守所在地法律法规与平台条款，不要将服务用于未授权访问、攻击或传播违法内容。节点与客户端仅作为连接工具，账号安全由用户自行保管订阅链接。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"card\"><h3>跨境办公与远程协作</h3><p>访问海外文档、会议与代码仓库时，普通国际链路容易抖动。必速通过多区域节点降低超时，适合固定办公时段的稳定连接。团队版可按企业路由习惯划分设备。</p></div><div class=\"card\"><h3>学术资料与公开信息检索</h3><p>期刊站点、预印本与公开数据库常因跨境链路不稳定而加载失败。使用必速订阅后，可在电脑或手机客户端切换节点完成检索与下载，注意遵守版权与机构规定。</p></div><div class=\"card\"><h3>流媒体播放</h3><p>基础版解锁基础流媒体；旗舰版与团队版强调全节点原生解锁，减少地区片源提示。实际可播内容仍受各平台账号地区政策影响，建议先用旗舰版验证常用平台。</p></div><div class=\"card\"><h3>游戏加速</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与更新下载。请将游戏进程或系统代理规则指向游戏相关域名，避免全局代理占用过多流量。</p></div></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为必速当前公开套餐。价格含月付与年付口径，功能以列表为准。年付相当于按 10 个月计费。选择后在账户中心生成订阅，再导入客户端。</p><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"guide\"><h2>操作说明（纵向步骤）</h2><p>按下列顺序完成即可使用必速加速器，无需额外脚本。若某一步失败，先核对客户端版本与订阅是否过期，再查阅常见问题。</p><div class=\"step\"><h3>步骤 1：确认需求并选择套餐</h3><p>统计同时在线设备数、每月流量与是否需要游戏专线。个人轻度使用选基础版；流媒体加游戏选旗舰版；工作室或多终端选团队版。年付适合长期固定使用。</p></div><div class=\"step\"><h3>步骤 2：在官网开通订阅</h3><p>通过必速官方网站登录账户并完成套餐开通。开通后在控制台复制订阅链接。请只在本机密码管理器保存链接，不要发到公开群组。</p></div><div class=\"step\"><h3>步骤 3：下载对应客户端</h3><p>Windows 与 macOS 可使用 Clash 系或同类图形客户端；iOS 使用支持订阅的客户端；Android 使用对应加速器应用；路由器用户在支持的固件中填写订阅。前往下方「客户端下载」查看平台说明。</p></div><div class=\"step\"><h3>步骤 4：导入订阅并更新节点</h3><p>打开客户端的订阅/配置页，粘贴必速订阅地址，执行更新。成功后应看到分区节点列表。首次使用建议选择标注流媒体或游戏的节点进行延迟测试。</p></div><div class=\"step\"><h3>步骤 5：选择代理模式并验证</h3><p>日常浏览可用规则模式，仅代理跨境域名；需要全局解锁时再开全局。打开浏览器访问目标站点，或运行游戏测延迟。若流量不走代理，检查系统代理开关与分流规则。</p></div><div class=\"step\"><h3>步骤 6：日常维护</h3><p>节点变更时在客户端手动更新订阅。接近流量上限会降速或中断，可在控制台查看用量。更换设备前先在旧设备断开，以免超过同时在线数。</p></div></section><section id=\"download\"><h2>客户端下载</h2><p>必速不捆绑来路不明的安装包。请从各系统常用客户端的官方渠道获取软件，再导入必速订阅。下列为平台要点，链接指向本页说明锚点，便于对照操作。</p><div class=\"card\"><h3>桌面端</h3><p>Windows：安装 64 位图形客户端，开启系统代理或 TUN。macOS：注意网络扩展权限。导入后将订阅命名为「必速」以免与其他配置混淆。详见 <a href=\"#guide\">操作说明</a>。</p></div><div class=\"card\"><h3>移动端</h3><p>iOS 需在设置中允许 VPN 配置。Android 建议关闭省电限制，避免后台断开。同一订阅可在套餐设备上限内多开，超出将挤占在线会话。</p></div><div class=\"card\"><h3>路由器与企业</h3><p>团队版支持定制路由，可将订阅填入支持的网关。请勿把订阅明文写进公共配置仓库。企业场景由专属客户经理协助划分策略。</p></div><p><a href=\"#plans\">查看套餐后再下载配置</a> · <a href=\"#faq\">下载与导入常见问题</a></p></section><section id=\"faq\"><h2>常见问题</h2><p>以下问题按实际使用频率整理，每条均可展开阅读完整说明。</p><details><summary>必速是机场还是传统 VPN 客户端？</summary><p>必速同时提供机场订阅与多端加速用法。本质是把节点列表通过订阅交给你常用的 VPN/代理客户端，而不是强制使用单一闭源 App。这样便于在电脑、手机和路由器之间同步同一套线路，也方便按套餐升级流量与设备数。</p></details><details><summary>如何完成必速官网的客户端下载与导入？</summary><p>先在本站开通套餐并复制订阅链接，再从各系统客户端的正规来源安装软件。打开客户端订阅栏粘贴链接并更新，选择节点后开启系统代理。不要从网盘或论坛下载改名安装包。若更新失败，检查链接是否完整、是否含多余空格，以及客户端是否支持该订阅格式。</p></details><details><summary>基础版、旗舰版和团队版如何选择？</summary><p>3 台设备以内、每月约 100GB、只需基础流媒体，选基础版（¥15/月或 ¥150/年）。需要 5 台设备、300GB、原生流媒体和 IPLC 游戏优化，选旗舰版（¥35/月或 ¥350/年）。20 台设备、1000GB、VIP 带宽与定制路由选团队版（¥85/月或 ¥850/年）。可按年付降低月均成本。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>当月流量用尽后新连接会失败或降速，次月额度重置；也可升级套餐。同时在线超过套餐台数时，新设备会挤掉旧会话。建议在不使用的电脑上关闭客户端。团队版适合共享网络的工作室，但仍需避免把订阅扩散到无关设备。</p></details><details><summary>游戏加速一定要开全局代理吗？</summary><p>不一定。旗舰版提供 IPLC 专线优化，更稳妥的做法是在客户端为游戏进程或相关域名设置规则，减少无关流量消耗。若游戏登录器与对战使用不同域名，需把相关域名一并纳入。延迟仍受本地宽带与节点负载影响，可在客户端切换同区域节点对比。</p></details><details><summary>流媒体提示地区限制怎么办？</summary><p>先确认套餐：基础版仅解锁基础流媒体，旗舰版与团队版强调全节点原生解锁。然后更新订阅，改用标注流媒体的节点，并清除播放器缓存。平台账号本身的地区与家庭组设置也会导致失败，这不属于线路故障。若仅个别剧集失败，可换同区域其他节点再试。</p></details><details><summary>订阅链接泄露后如何处理？</summary><p>立刻在必速账户中重置订阅。旧链接将失效，需在所有设备重新导入新地址。不要把订阅发到截图、网盘或群公告。企业用户应由客户经理分配独立策略，避免全员共用同一链接。</p></details></section><section id=\"ads\"><h2>合作与展示</h2><div class=\"adbox\"><p>必速官网展示位：面向网络工具、跨境协作与合法内容平台的文字合作。不接受来路不明的下载站与刷量业务。合作说明请通过官方客服渠道提交品牌与落地页信息。</p><p class=\"muted\">本区域为站点说明性展示，不含第三方脚本或跳转追踪。</p></div></section><section id=\"links\"><h2>友情链接</h2><p class=\"list-inline\"><a href=\"#intro\">必速简介</a><a href=\"#download\">官方下载说明</a><a href=\"#plans\">套餐一览</a><a href=\"#faq\">帮助中心</a><a href=\"#guide\">接入步骤</a></p><p class=\"muted\">友链仅为站内导航与合作文字入口，均使用页面锚点，避免外部不可控跳转。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>© 必速 官方网站 · VPN梯子网络加速器与机场订阅</p><p>canonical：https://www.bisu.net/ · <a href=\"#\">站点地图</a> · <a href=\"#faq\">常见问题</a></p><p><small>内容供了解套餐与配置流程，使用须遵守适用法律与第三方平台条款。</small></p></div></footer>",
+          "hash": "02fa8e9026953fab9801223012296ff8a35ff48fc884be531964c92500ca4c1c",
+          "seo": {
+            "title": "必速官网 | VPN梯子网络加速器与客户端下载",
+            "keywords": "必速,必速VPN,必速机场,必速官网,VPN加速器,梯子网络加速,机场订阅,客户端下载,IPLC游戏加速",
+            "description": "必速是专注稳定连接的VPN梯子与机场订阅服务官方网站，提供多端客户端下载、流媒体解锁与游戏加速套餐说明，帮助你快速完成订阅与配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hshydp.cn",
+    "host": "p-b9c70b428d.hshydp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "hshydp.cn",
+      "url": "https://hshydp.cn/",
+      "label": "下北沢红茶馆",
+      "apex": "hshydp.cn",
+      "kind": null,
+      "identity": "wegyvj/page-19b4963c91e9ae787fd8ce9c"
+    },
+    {
+      "host": "aaiyu.cn",
+      "url": "https://aaiyu.cn/",
+      "label": "必速",
+      "apex": "aaiyu.cn",
+      "kind": null,
+      "identity": "ynw8vu9/page-8a7febf441bd729da619ff22"
+    },
+    {
+      "host": "opxto.cn",
+      "url": "https://opxto.cn/",
+      "label": "必速",
+      "apex": "opxto.cn",
+      "kind": null,
+      "identity": "bhkatbwmt/page-69b9a36883a236551c0c407d"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a9a36d66114b07436a8faf4eefae2e65533bb43b15695a2afe3c92bcbfebd488",
+    "sitemap.xml": "f8be1b9745bfd07744f24569ed91d1fc69a5cf05fb62f13aae6c78aeb5eec108",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8920104b440e43e99893b8abdb74133e1a46aee805ba0a8d35b89271c5508aec",
+    "robots.txt": "ad4f6b14b79956c64582fe3e536753a659b5d73e97281ebb4d41a8d8441f3738",
+    "4e89215403fef51c1440be3caa7dd6e0.txt": "151d1645f678fa687b85a3e7f3ef7c1b1911f9e199204cdcec829dbd004009fd"
+  },
+  "revision": "d6348cdb7b8635e1e8d75eb5fccd88f2c2c8dfad91af9140ec8dc251b3cfbc79"
+}
